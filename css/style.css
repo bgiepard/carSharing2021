@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /*font family*/
+}
+
+/*zmienne na kolory*/
+
+/*btn */
+/*btn -- big*/
+/*btn -- small*/
+/*btn -- icon*/
+
+/*zaimportować obrazki*/
+
+
+/* .section-title */
+/*:after / :before - kreski*/
+/*.section-title--light*/
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    /*flex*/
+}
+
+
+/*.header.. */
+/*.section....*/
+/*.footer..*/
